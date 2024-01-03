@@ -1,13 +1,12 @@
 # Boas-vindas ao repositório Trybewarts Wizarding School! 🧙
 
-<details>
   <summary><strong>🧑‍💻 O que foi desenvolvido</strong></summary><br />
 Neste projeto, eu desenvolvi uma página de formulário da Escola de Magia de Trybewarts, em que as pessoas estudantes podem enviar seus feedbacks sobre ela. O tema desse projeto é baseado na obra 'Harry Potter', de J. K. Rowling, já que programar é o mais próximo que podemos chegar de algo verdadeiramente mágico!
-</details>
 
-# Requisitos Obrigatórios Obedecidos do Projeto
 
-## 1. Crie uma barra verde na parte superior da página.
+## Requisitos Obrigatórios Obedecidos do Projeto
+
+#### 1. Crie uma barra verde na parte superior da página.
 
 <details>
   <summary>
@@ -22,7 +21,7 @@ Neste projeto, eu desenvolvi uma página de formulário da Escola de Magia de Tr
 
 </details>
 
-## 2. Adicione o logotipo da Trybewarts.
+#### 2. Adicione o logotipo da Trybewarts.
 
 <details>
   <summary>
@@ -40,7 +39,7 @@ Neste projeto, eu desenvolvi uma página de formulário da Escola de Magia de Tr
 
 </details>
 
-## 3. Acrescente um formulário de login no `header`.
+#### 3. Acrescente um formulário de login no `header`.
 
 <details>
   <summary>
@@ -82,7 +81,7 @@ Neste projeto, eu desenvolvi uma página de formulário da Escola de Magia de Tr
 
 </details>
 
-## 4. Crie um título com o texto "Trybewarts" centralizado dentro do `Header`.
+#### 4. Crie um título com o texto "Trybewarts" centralizado dentro do `Header`.
 
 <details>
   <summary>
@@ -104,7 +103,7 @@ Neste projeto, eu desenvolvi uma página de formulário da Escola de Magia de Tr
 
 </details>
 
-## 5. Adicione um formulário no corpo da página.
+#### 5. Adicione um formulário no corpo da página.
 
 <details>
   <summary>
@@ -126,7 +125,7 @@ Neste projeto, eu desenvolvi uma página de formulário da Escola de Magia de Tr
 
 </details>
 
-## 6. Faça com que a direção do formulário seja vertical.
+#### 6. Faça com que a direção do formulário seja vertical.
 
 <details>
   <summary>
@@ -139,7 +138,7 @@ Neste projeto, eu desenvolvi uma página de formulário da Escola de Magia de Tr
 
 </details>
 
-## 7. Adicione a logo da Trybewarts ao lado direito da página.
+#### 7. Adicione a logo da Trybewarts ao lado direito da página.
 
   <details>
   <summary>
@@ -158,7 +157,7 @@ Neste projeto, eu desenvolvi uma página de formulário da Escola de Magia de Tr
 
 </details>
 
-## 8. Acrescente inputs de `nome, sobrenome` e `email` ao formulário.
+#### 8. Acrescente inputs de `nome, sobrenome` e `email` ao formulário.
 
 <details>
   <summary>
@@ -182,7 +181,7 @@ Neste projeto, eu desenvolvi uma página de formulário da Escola de Magia de Tr
 
 </details>
 
-## 9. Acrescente um `select` ao formulário.
+#### 9. Acrescente um `select` ao formulário.
 
 <details>
   <summary>
@@ -207,7 +206,7 @@ Neste projeto, eu desenvolvi uma página de formulário da Escola de Magia de Tr
 
 </details>
 
-## 10. Posicione os campos de `Nome` e `Sobrenome` lado a lado.
+#### 10. Posicione os campos de `Nome` e `Sobrenome` lado a lado.
 
 <details>
   <summary>
@@ -220,7 +219,7 @@ Neste projeto, eu desenvolvi uma página de formulário da Escola de Magia de Tr
 
 </details>
 
-## 11. Posicione os campos de `Email` e `Casa` lado a lado.
+#### 11. Posicione os campos de `Email` e `Casa` lado a lado.
 
 <details>
   <summary>
@@ -233,7 +232,7 @@ Neste projeto, eu desenvolvi uma página de formulário da Escola de Magia de Tr
 
 </details>
 
-## 12. Adicione 3 inputs do tipo `radio` ao formulário.
+#### 12. Adicione 3 inputs do tipo `radio` ao formulário.
 
 <details>
   <summary>
@@ -262,7 +261,7 @@ Neste projeto, eu desenvolvi uma página de formulário da Escola de Magia de Tr
 
 </details>
 
-## 13. Crie inputs do tipo `checkbox`.
+#### 13. Crie inputs do tipo `checkbox`.
 
 <details>
   <summary>
@@ -291,7 +290,7 @@ Neste projeto, eu desenvolvi uma página de formulário da Escola de Magia de Tr
 
 </details>
 
-## 14. Crie um campo de avaliação.
+#### 14. Crie um campo de avaliação.
 
 <details>
   <summary>
@@ -315,7 +314,7 @@ Neste projeto, eu desenvolvi uma página de formulário da Escola de Magia de Tr
 
 </details>
 
-## 15. Crie uma textarea.
+#### 15. Crie uma textarea.
 
 <details>
   <summary>
@@ -333,7 +332,7 @@ Neste projeto, eu desenvolvi uma página de formulário da Escola de Magia de Tr
 
 </details>
 
-## 16. Crie uma `checkbox` que servirá para validar as informações digitadas pela pessoa usuária.
+#### 16. Crie uma `checkbox` que servirá para validar as informações digitadas pela pessoa usuária.
 
 <details>
   <summary>
@@ -351,7 +350,7 @@ Neste projeto, eu desenvolvi uma página de formulário da Escola de Magia de Tr
 
 </details>
 
-## 17. Crie um botão de "Enviar" para submeter o formulário.
+#### 17. Crie um botão de "Enviar" para submeter o formulário.
 
 <details>
   <summary>
@@ -369,7 +368,7 @@ Neste projeto, eu desenvolvi uma página de formulário da Escola de Magia de Tr
 
 </details>
 
-## 18. Habilite o botão "Enviar" após a validação do `checkbox`.
+#### 18. Habilite o botão "Enviar" após a validação do `checkbox`.
 
 <details>
   <summary>
@@ -386,7 +385,7 @@ Neste projeto, eu desenvolvi uma página de formulário da Escola de Magia de Tr
 
 </details>
 
-## 19. Crie um rodapé ao final da página.
+#### 19. Crie um rodapé ao final da página.
 
 <details>
   <summary>
@@ -402,9 +401,9 @@ Neste projeto, eu desenvolvi uma página de formulário da Escola de Magia de Tr
 
 ---
 
-# Requisitos Bônus
+## Requisitos Bônus
 
-## 20. Crie um contador de caracteres.
+#### 20. Crie um contador de caracteres.
 
 <details>
   <summary>
@@ -427,7 +426,7 @@ Neste projeto, eu desenvolvi uma página de formulário da Escola de Magia de Tr
 
 </details>
 
-## 21. Substitua o formulário pelas informações da pessoa estudante.
+#### 21. Substitua o formulário pelas informações da pessoa estudante.
 
 <details>
   <summary>
@@ -465,11 +464,11 @@ Neste projeto, eu desenvolvi uma página de formulário da Escola de Magia de Tr
 
 ---
 
-# Requisito não avaliativo:
+## Requisito não avaliativo:
 
 Esse requisito **não** é verificado pelo avaliador automático.
 
-## 22. Desenvolva a versão mobile do formulário Trybewarts
+#### 22. Desenvolva a versão mobile do formulário Trybewarts
 
 <details>
   <summary>
